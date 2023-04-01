@@ -46,3 +46,10 @@ Hi Street is an e-commerce platform that allows individuals to create and run th
 - Shadcn/ui, React hot toast, Zod, AuthJS, Cloudinary, Stripe
 - Database: PostgreSQL, Prisma
 - Testing/CI: Cypress, Turborepo
+
+## Developers
+[Allan Bott](https://github.com/mercury80Hg)<br/>
+[Chris Mitchell](https://github.com/MitchCrystal)<br/>
+[Gecco Navalta](https://github.com/GeccoRhiguelNavalta)<br/>
+[Jack Blatchford](https://github.com/jackb14)<br/>
+[Yi-Ying Ko](https://github.com/yiyingko)
