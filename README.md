@@ -32,6 +32,10 @@ Hi Street is an e-commerce platform that allows individuals to create and run th
 ## Running locally
 - App : `npm run dev`
 - Prisma Studio: `npx prisma studio` (in /packages/database)
+- Seed data : `npm run seed`(in /packages/database)
+
+## set up .env file
+
 
 ## When you commit
 - before git add, `npm run lint` to check linting error
