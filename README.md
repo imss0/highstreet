@@ -56,4 +56,6 @@ Hi Street is an e-commerce platform that allows individuals to create and run th
 [Chris Mitchell](https://github.com/MitchCrystal)<br/>
 [Gecco Navalta](https://github.com/GeccoRhiguelNavalta)<br/>
 [Jack Blatchford](https://github.com/jackb14)<br/>
+[Sohyun Lim](https://github.com/imss0)<br/>
 [Yi-Ying Ko](https://github.com/yiyingko)
+
